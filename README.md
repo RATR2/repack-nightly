@@ -2,12 +2,13 @@
 
 Nightly builds of [Repack](https://github.com/RATR2/repack). Every build is a branch named after the commit it was built from.
 
-latest publish: [`32a259c`](https://github.com/RATR2/repack/commit/32a259cc01274245c62a508e4e2201905bb8ba67) ([branch](https://github.com/RATR2/repack-nightly/tree/32a259c))
+latest publish: [`05f2b6b`](https://github.com/RATR2/repack/commit/05f2b6b31993bded00fe71f880cde4f099d237fd) ([branch](https://github.com/RATR2/repack-nightly/tree/05f2b6b))
 
 ## Changes since last release
 
 Since [`0.1.1`](https://github.com/RATR2/repack/releases/tag/0.1.1):
 
+- [`05f2b6b`](https://github.com/RATR2/repack/commit/05f2b6b31993bded00fe71f880cde4f099d237fd) Version 0.1.2
 - [`32a259c`](https://github.com/RATR2/repack/commit/32a259cc01274245c62a508e4e2201905bb8ba67) Loading screen while a pack loads
 - [`9f6d30a`](https://github.com/RATR2/repack/commit/9f6d30a8594e3ced9ec04a6cc9a93cdd22ebb170) Rebuild quietly, push on request
 - [`aab39a6`](https://github.com/RATR2/repack/commit/aab39a6d29212e49e65f5acd08487e0fd1843ce2) Changelog in releases
