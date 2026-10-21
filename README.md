@@ -2,12 +2,13 @@
 
 Nightly builds of [Repack](https://github.com/RATR2/repack). Every build is a branch named after the commit it was built from.
 
-latest publish: [`e055705`](https://github.com/RATR2/repack/commit/e055705384de02ffd109bbf173f6c37120798135) ([branch](https://github.com/RATR2/repack-nightly/tree/e055705))
+latest publish: [`f658631`](https://github.com/RATR2/repack/commit/f6586319514d4188f8a67647ca977826ed7c5f6b) ([branch](https://github.com/RATR2/repack-nightly/tree/f658631))
 
 ## Changes since last release
 
 There is no release yet.
 
+- [`f658631`](https://github.com/RATR2/repack/commit/f6586319514d4188f8a67647ca977826ed7c5f6b) Clean up old packs
 - [`e055705`](https://github.com/RATR2/repack/commit/e055705384de02ffd109bbf173f6c37120798135) Keep the blocks around the player's body clear while a pack loads
 - [`d3c0038`](https://github.com/RATR2/repack/commit/d3c00384211b9dedc18b7b7d6fce18d0c12ea9f4) Skyboxes
 - [`7c8e6ac`](https://github.com/RATR2/repack/commit/7c8e6ac58430c18cd5c072789566984c52ab633b) Skybox definitions and pack shaders
@@ -54,4 +55,3 @@ There is no release yet.
 - [`44db373`](https://github.com/RATR2/repack/commit/44db373c4bf73a84ec3f062e71251dfb06ab30eb) fix the example skript
 - [`36eb7ef`](https://github.com/RATR2/repack/commit/36eb7ef85690df3d45e0754bbaa3d76fa33edd53) example skript
 - [`8097b09`](https://github.com/RATR2/repack/commit/8097b0953d16a217855a3c1bee5fabc0c83d9b9b) instant break in creative
-- [`29f7a69`](https://github.com/RATR2/repack/commit/29f7a695058552798d0c6cc5ca656c17e883c0d1) vanilla mode mining
