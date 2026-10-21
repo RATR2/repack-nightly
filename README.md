@@ -2,12 +2,13 @@
 
 Nightly builds of [Repack](https://github.com/RATR2/repack). Every build is a branch named after the commit it was built from.
 
-latest publish: [`9cd6122`](https://github.com/RATR2/repack/commit/9cd612282a9af754f34b487f6b7c8ae01469d4fc) ([branch](https://github.com/RATR2/repack-nightly/tree/9cd6122))
+latest publish: [`bc0216e`](https://github.com/RATR2/repack/commit/bc0216e879d1a9d387983fbdace740dba68c9643) ([branch](https://github.com/RATR2/repack-nightly/tree/bc0216e))
 
 ## Changes since last release
 
 There is no release yet.
 
+- [`bc0216e`](https://github.com/RATR2/repack/commit/bc0216e879d1a9d387983fbdace740dba68c9643) Drop distortion mentions
 - [`9cd6122`](https://github.com/RATR2/repack/commit/9cd612282a9af754f34b487f6b7c8ae01469d4fc) Rewrite readme
 - [`f1c9ee0`](https://github.com/RATR2/repack/commit/f1c9ee074592ce083b096bc21ff8ecfe0ef8f69d) Modrinth releases
 - [`f658631`](https://github.com/RATR2/repack/commit/f6586319514d4188f8a67647ca977826ed7c5f6b) Clean up old packs
@@ -54,4 +55,3 @@ There is no release yet.
 - [`e7b86bd`](https://github.com/RATR2/repack/commit/e7b86bd5a3271302d3883239294a945e1e682b22) bundle display packets
 - [`d62b34d`](https://github.com/RATR2/repack/commit/d62b34d4cc6236a42621c9afa58cb34b1088c782) fix example place and remove
 - [`0f74d78`](https://github.com/RATR2/repack/commit/0f74d784a0373f55a8bc13aa7ace83c3764802c0) fix example locations
-- [`44db373`](https://github.com/RATR2/repack/commit/44db373c4bf73a84ec3f062e71251dfb06ab30eb) fix the example skript
