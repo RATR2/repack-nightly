@@ -2,12 +2,15 @@
 
 Nightly builds of [Repack](https://github.com/RATR2/repack). Every build is a branch named after the commit it was built from.
 
-latest publish: [`f658631`](https://github.com/RATR2/repack/commit/f6586319514d4188f8a67647ca977826ed7c5f6b) ([branch](https://github.com/RATR2/repack-nightly/tree/f658631))
+latest publish: [`f64b232`](https://github.com/RATR2/repack/commit/f64b232f613ecc0abe9b5c5a9d2a7e7de3793479) ([branch](https://github.com/RATR2/repack-nightly/tree/f64b232))
 
 ## Changes since last release
 
 There is no release yet.
 
+- [`f64b232`](https://github.com/RATR2/repack/commit/f64b232f613ecc0abe9b5c5a9d2a7e7de3793479) Version 1.0.0
+- [`f64eccc`](https://github.com/RATR2/repack/commit/f64ecccb3c9162e0bc1f4ed11e0a1ddc73899d92) Rewrite readme
+- [`f1c9ee0`](https://github.com/RATR2/repack/commit/f1c9ee074592ce083b096bc21ff8ecfe0ef8f69d) Modrinth releases
 - [`f658631`](https://github.com/RATR2/repack/commit/f6586319514d4188f8a67647ca977826ed7c5f6b) Clean up old packs
 - [`e055705`](https://github.com/RATR2/repack/commit/e055705384de02ffd109bbf173f6c37120798135) Keep the blocks around the player's body clear while a pack loads
 - [`d3c0038`](https://github.com/RATR2/repack/commit/d3c00384211b9dedc18b7b7d6fce18d0c12ea9f4) Skyboxes
@@ -52,6 +55,3 @@ There is no release yet.
 - [`e7b86bd`](https://github.com/RATR2/repack/commit/e7b86bd5a3271302d3883239294a945e1e682b22) bundle display packets
 - [`d62b34d`](https://github.com/RATR2/repack/commit/d62b34d4cc6236a42621c9afa58cb34b1088c782) fix example place and remove
 - [`0f74d78`](https://github.com/RATR2/repack/commit/0f74d784a0373f55a8bc13aa7ace83c3764802c0) fix example locations
-- [`44db373`](https://github.com/RATR2/repack/commit/44db373c4bf73a84ec3f062e71251dfb06ab30eb) fix the example skript
-- [`36eb7ef`](https://github.com/RATR2/repack/commit/36eb7ef85690df3d45e0754bbaa3d76fa33edd53) example skript
-- [`8097b09`](https://github.com/RATR2/repack/commit/8097b0953d16a217855a3c1bee5fabc0c83d9b9b) instant break in creative
