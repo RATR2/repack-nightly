@@ -2,12 +2,13 @@
 
 Nightly builds of [Repack](https://github.com/RATR2/repack). Every build is a branch named after the commit it was built from.
 
-latest publish: [`7f54455`](https://github.com/RATR2/repack/commit/7f54455d4a9301429ae986522978af79dda092da) ([branch](https://github.com/RATR2/repack-nightly/tree/7f54455))
+latest publish: [`ea18126`](https://github.com/RATR2/repack/commit/ea1812649e8f207e85b2c667e946ffccf2d83a1a) ([branch](https://github.com/RATR2/repack-nightly/tree/ea18126))
 
 ## Changes since last release
 
 Since [`0.1.2`](https://github.com/RATR2/repack/releases/tag/0.1.2):
 
+- [`ea18126`](https://github.com/RATR2/repack/commit/ea1812649e8f207e85b2c667e946ffccf2d83a1a) Nightly release fallback
 - [`7f54455`](https://github.com/RATR2/repack/commit/7f54455d4a9301429ae986522978af79dda092da) Custom GUIs
 - [`5c2d089`](https://github.com/RATR2/repack/commit/5c2d089709344ff75ab178172a8f871a8f794f09) Modrinth tag
 - [`bc0216e`](https://github.com/RATR2/repack/commit/bc0216e879d1a9d387983fbdace740dba68c9643) Drop distortion mentions
