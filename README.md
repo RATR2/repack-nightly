@@ -2,12 +2,13 @@
 
 Nightly builds of [Repack](https://github.com/RATR2/repack). Every build is a branch named after the commit it was built from.
 
-latest publish: [`ea18126`](https://github.com/RATR2/repack/commit/ea1812649e8f207e85b2c667e946ffccf2d83a1a) ([branch](https://github.com/RATR2/repack-nightly/tree/ea18126))
+latest publish: [`10562ff`](https://github.com/RATR2/repack/commit/10562ff3c72f386a6b359a025b4ef14290e9008e) ([branch](https://github.com/RATR2/repack-nightly/tree/10562ff))
 
 ## Changes since last release
 
 Since [`0.1.2`](https://github.com/RATR2/repack/releases/tag/0.1.2):
 
+- [`10562ff`](https://github.com/RATR2/repack/commit/10562ff3c72f386a6b359a025b4ef14290e9008e) Item textures and display
 - [`ea18126`](https://github.com/RATR2/repack/commit/ea1812649e8f207e85b2c667e946ffccf2d83a1a) Nightly release fallback
 - [`7f54455`](https://github.com/RATR2/repack/commit/7f54455d4a9301429ae986522978af79dda092da) Custom GUIs
 - [`5c2d089`](https://github.com/RATR2/repack/commit/5c2d089709344ff75ab178172a8f871a8f794f09) Modrinth tag
