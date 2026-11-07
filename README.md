@@ -2,12 +2,13 @@
 
 Nightly builds of [Repack](https://github.com/RATR2/repack). Every build is a branch named after the commit it was built from.
 
-latest publish: [`2e6e7db`](https://github.com/RATR2/repack/commit/2e6e7db205925652f1d99bf30ac388fb8d64c0f2) ([branch](https://github.com/RATR2/repack-nightly/tree/2e6e7db))
+latest publish: [`d008a7d`](https://github.com/RATR2/repack/commit/d008a7d982e2dd48c8e32ac4da3a23df4634a332) ([branch](https://github.com/RATR2/repack-nightly/tree/d008a7d))
 
 ## Changes since last release
 
 Since [`1.0.0`](https://github.com/RATR2/repack/releases/tag/1.0.0):
 
+- [`d008a7d`](https://github.com/RATR2/repack/commit/d008a7d982e2dd48c8e32ac4da3a23df4634a332) No packs without a pack server
 - [`2e6e7db`](https://github.com/RATR2/repack/commit/2e6e7db205925652f1d99bf30ac388fb8d64c0f2) Pack host failure diagnostics
 - [`e2a941b`](https://github.com/RATR2/repack/commit/e2a941b4c2c9e879e65ddae1f9111bae3bf8723d) version bump to snap, because bot forgor.
 - [`5233513`](https://github.com/RATR2/repack/commit/52335132457b3be59aeaa4fd28e08651c409b116) Shared host settings, any load order
