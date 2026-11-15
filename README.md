@@ -2,12 +2,13 @@
 
 Nightly builds of [Repack](https://github.com/RATR2/repack). Every build is a branch named after the commit it was built from.
 
-latest publish: [`bd09c7b`](https://github.com/RATR2/repack/commit/bd09c7b81084a34956c980feb8cec54540e9b731) ([branch](https://github.com/RATR2/repack-nightly/tree/bd09c7b))
+latest publish: [`a41a537`](https://github.com/RATR2/repack/commit/a41a5379451fe91802a4defc5511d00f134861ff) ([branch](https://github.com/RATR2/repack-nightly/tree/a41a537))
 
 ## Changes since last release
 
 Since [`1.0.0`](https://github.com/RATR2/repack/releases/tag/1.0.0):
 
+- [`a41a537`](https://github.com/RATR2/repack/commit/a41a5379451fe91802a4defc5511d00f134861ff) Version 1.1.0
 - [`bd09c7b`](https://github.com/RATR2/repack/commit/bd09c7b81084a34956c980feb8cec54540e9b731) Item create syntax
 - [`91a0feb`](https://github.com/RATR2/repack/commit/91a0febfed53bcafef63c70bd8aacd2ee3c76f72) Skript docs and examples
 - [`ec0fc7a`](https://github.com/RATR2/repack/commit/ec0fc7abda30765f385cc9554eb997016199cf8d) Repack join event
